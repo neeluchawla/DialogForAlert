@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dailog For Alert</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
